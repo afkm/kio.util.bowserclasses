@@ -18,5 +18,8 @@
   "homepage": "https://github.com/afkm/kio.util.bowserclasses#readme",
   "dependencies": {
     "bowser": "^1.4.6"
+  },
+  "peerDependencies": {
+    "bowser": "^1.4.6"
   }
 }
