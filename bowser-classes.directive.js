@@ -1,4 +1,4 @@
-var bowser = require(bowser);
+var bowser = require('bowser');
 
 (function () {
     'use strict';
