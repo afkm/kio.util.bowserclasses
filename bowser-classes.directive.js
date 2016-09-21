@@ -1,3 +1,5 @@
+var bowser = require(bowser);
+
 (function () {
     'use strict';
 

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/afkm/kio.util.bowserclasses/issues"
   },
-  "homepage": "https://github.com/afkm/kio.util.bowserclasses#readme"
+  "homepage": "https://github.com/afkm/kio.util.bowserclasses#readme",
+  "devDependencies": {
+    "bowser": "^1.4.6"
+  }
 }
