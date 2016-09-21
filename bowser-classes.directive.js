@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('digitHeiligenacht')
+        .module('kio.util.bowserclasses')
         .directive('bowserClasses', bowserClasses);
 
 
