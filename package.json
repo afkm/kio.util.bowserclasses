@@ -1,6 +1,6 @@
 {
   "name": "kio.util.bowserclasses",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "bowser-classes.directive.js",
   "scripts": {
@@ -16,9 +16,6 @@
     "url": "https://github.com/afkm/kio.util.bowserclasses/issues"
   },
   "homepage": "https://github.com/afkm/kio.util.bowserclasses#readme",
-  "dependencies": {
-    "bowser": "^1.4.6"
-  },
   "dependencies": {
     "bowser": "^1.4.6"
   }
