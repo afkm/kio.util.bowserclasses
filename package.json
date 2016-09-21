@@ -19,6 +19,9 @@
   "dependencies": {
     "bowser": "^1.4.6"
   },
+  "devDependencies": {
+    "bowser": "^1.4.6"
+  },
   "peerDependencies": {
     "bowser": "^1.4.6"
   }
