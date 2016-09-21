@@ -1,8 +1,8 @@
 (function () {
     'use strict';
 
-    angular
-        .module('kio.util.bowserclasses')
+    return angular
+        .module('kio.util.bowserclasses', [])
         .directive('bowserClasses', bowserClasses);
 
 
