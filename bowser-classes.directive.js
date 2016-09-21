@@ -9,7 +9,7 @@ var bowser = require('bowser');
 
 
     /** @ngInject */
-    function bowserClasses (bowser) {
+    function bowserClasses () {
 
         var directive = {
             restrict: 'A',
