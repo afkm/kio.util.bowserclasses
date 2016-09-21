@@ -1,6 +1,6 @@
 {
   "name": "kio.util.bowserclasses",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "bowser-classes.directive.js",
   "scripts": {
